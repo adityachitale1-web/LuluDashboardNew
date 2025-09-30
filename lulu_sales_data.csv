@@ -1,0 +1,101 @@
+Transaction_ID,Date,Customer_Age,Gender,Nationality,Store_Location,Product_Category,Payment_Method,Amount
+T1000,2025-09-29 09:53:34.197732,61,Female,Emirati,Abu Dhabi,Electronics,Card,638.49
+T1001,2025-09-24 09:53:34.197751,46,Male,Filipino,Abu Dhabi,Beauty,Cash,476.0
+T1002,2025-08-01 09:53:34.197754,22,Male,Bangladeshi,Al Ain,Groceries,Cash,60.25
+T1003,2025-08-22 09:53:34.197756,48,Male,Indian,Abu Dhabi,Groceries,Wallet,964.4
+T1004,2025-08-24 09:53:34.197758,42,Male,Bangladeshi,Al Ain,Home,Cash,117.72
+T1005,2025-08-02 09:53:34.197762,25,Female,Indian,Dubai,Health,Cash,72.04
+T1006,2025-09-10 09:53:34.197764,40,Female,Filipino,Abu Dhabi,Health,Wallet,563.02
+T1007,2025-08-22 09:53:34.197767,27,Female,Syrian,Al Ain,Electronics,Card,615.74
+T1008,2025-09-11 09:53:34.197774,37,Female,Emirati,Ajman,Clothing,Wallet,468.33
+T1009,2025-09-10 09:53:34.197776,21,Female,Syrian,Dubai,Beauty,Card,98.98
+T1010,2025-08-11 09:53:34.197778,52,Female,Bangladeshi,Ajman,Home,Card,983.82
+T1011,2025-08-30 09:53:34.197780,41,Female,Bangladeshi,Sharjah,Electronics,Wallet,551.36
+T1012,2025-08-20 09:53:34.197781,34,Male,Syrian,Ajman,Health,Wallet,869.28
+T1013,2025-09-15 09:53:34.197783,59,Male,Egyptian,Al Ain,Beauty,Wallet,489.71
+T1014,2025-09-11 09:53:34.197785,35,Female,Syrian,Ajman,Electronics,Card,482.67
+T1015,2025-09-30 09:53:34.197787,27,Male,Pakistani,Abu Dhabi,Home,Card,578.51
+T1016,2025-08-09 09:53:34.197789,55,Male,Indian,Al Ain,Home,Cash,122.39
+T1017,2025-08-18 09:53:34.197791,19,Female,Bangladeshi,Sharjah,Clothing,Card,226.03
+T1018,2025-08-25 09:53:34.197793,56,Male,Egyptian,Al Ain,Home,Wallet,213.72
+T1019,2025-08-11 09:53:34.197794,43,Male,Pakistani,Abu Dhabi,Groceries,Card,882.64
+T1020,2025-09-15 09:53:34.197796,44,Male,Syrian,Ajman,Electronics,Card,583.56
+T1021,2025-08-19 09:53:34.197798,34,Female,Filipino,Al Ain,Clothing,Cash,784.76
+T1022,2025-08-11 09:53:34.197799,37,Female,Syrian,Abu Dhabi,Home,Card,266.07
+T1023,2025-08-04 09:53:34.197801,34,Female,Bangladeshi,Al Ain,Clothing,Wallet,880.82
+T1024,2025-09-08 09:53:34.197802,26,Female,Indian,Dubai,Clothing,Wallet,670.9
+T1025,2025-08-07 09:53:34.197804,48,Female,Pakistani,Dubai,Groceries,Cash,581.08
+T1026,2025-08-26 09:53:34.197806,37,Female,Indian,Sharjah,Groceries,Cash,437.64
+T1027,2025-09-28 09:53:34.197807,56,Female,Syrian,Ajman,Groceries,Wallet,450.4
+T1028,2025-09-09 09:53:34.197809,33,Female,Filipino,Al Ain,Health,Cash,483.16
+T1029,2025-08-26 09:53:34.197811,42,Female,Bangladeshi,Dubai,Clothing,Card,288.66
+T1030,2025-08-30 09:53:34.197812,44,Male,Filipino,Ajman,Home,Wallet,569.47
+T1031,2025-08-21 09:53:34.197814,49,Female,Filipino,Abu Dhabi,Health,Wallet,443.28
+T1032,2025-08-17 09:53:34.197816,20,Male,Indian,Abu Dhabi,Home,Cash,62.25
+T1033,2025-09-01 09:53:34.197817,30,Female,Pakistani,Abu Dhabi,Groceries,Wallet,326.69
+T1034,2025-09-27 09:53:34.197819,39,Female,Filipino,Sharjah,Clothing,Wallet,973.22
+T1035,2025-09-15 09:53:34.197821,38,Female,Emirati,Dubai,Health,Cash,456.4
+T1036,2025-08-14 09:53:34.197822,59,Female,Pakistani,Dubai,Beauty,Wallet,213.52
+T1037,2025-08-26 09:53:34.197824,18,Female,Filipino,Ajman,Health,Card,840.62
+T1038,2025-09-15 09:53:34.197825,28,Male,Indian,Abu Dhabi,Electronics,Cash,681.12
+T1039,2025-08-14 09:53:34.197827,57,Male,Pakistani,Ajman,Clothing,Wallet,35.77
+T1040,2025-08-07 09:53:34.197829,63,Male,Filipino,Ajman,Home,Wallet,298.56
+T1041,2025-09-16 09:53:34.197830,24,Female,Bangladeshi,Abu Dhabi,Health,Wallet,441.39
+T1042,2025-08-30 09:53:34.197832,43,Male,Emirati,Abu Dhabi,Clothing,Card,413.81
+T1043,2025-09-20 09:53:34.197833,19,Male,Syrian,Dubai,Clothing,Card,884.21
+T1044,2025-08-12 09:53:34.197835,32,Male,Syrian,Abu Dhabi,Beauty,Wallet,653.31
+T1045,2025-08-24 09:53:34.197837,47,Female,Syrian,Sharjah,Beauty,Cash,551.77
+T1046,2025-09-08 09:53:34.197838,30,Male,Emirati,Abu Dhabi,Clothing,Wallet,488.34
+T1047,2025-08-21 09:53:34.197840,57,Male,Emirati,Ajman,Groceries,Card,777.08
+T1048,2025-08-27 09:53:34.197842,20,Female,Indian,Dubai,Health,Wallet,637.09
+T1049,2025-09-24 09:53:34.197843,61,Male,Bangladeshi,Abu Dhabi,Beauty,Card,115.97
+T1050,2025-08-21 09:53:34.197845,63,Male,Pakistani,Dubai,Electronics,Card,132.15
+T1051,2025-09-24 09:53:34.197847,36,Male,Filipino,Abu Dhabi,Health,Wallet,271.65
+T1052,2025-09-15 09:53:34.197848,38,Female,Pakistani,Sharjah,Health,Cash,443.32
+T1053,2025-08-30 09:53:34.197850,21,Male,Emirati,Ajman,Health,Cash,382.27
+T1054,2025-09-03 09:53:34.197851,49,Male,Pakistani,Ajman,Electronics,Wallet,555.06
+T1055,2025-09-27 09:53:34.197853,44,Female,Emirati,Dubai,Home,Cash,601.14
+T1056,2025-09-30 09:53:34.197855,21,Female,Pakistani,Al Ain,Health,Cash,988.35
+T1057,2025-09-03 09:53:34.197857,42,Male,Filipino,Sharjah,Home,Cash,453.38
+T1058,2025-09-20 09:53:34.197858,34,Male,Indian,Al Ain,Home,Wallet,727.91
+T1059,2025-08-14 09:53:34.197860,41,Female,Filipino,Al Ain,Electronics,Card,985.55
+T1060,2025-09-26 09:53:34.197862,23,Female,Pakistani,Dubai,Home,Card,150.32
+T1061,2025-08-18 09:53:34.197863,46,Male,Pakistani,Abu Dhabi,Health,Cash,436.39
+T1062,2025-08-14 09:53:34.197865,47,Female,Indian,Sharjah,Home,Wallet,19.12
+T1063,2025-09-13 09:53:34.197867,19,Female,Filipino,Sharjah,Clothing,Cash,546.83
+T1064,2025-09-17 09:53:34.197868,39,Male,Emirati,Dubai,Electronics,Cash,767.14
+T1065,2025-08-12 09:53:34.197870,57,Male,Egyptian,Abu Dhabi,Home,Card,904.92
+T1066,2025-09-16 09:53:34.197873,35,Female,Pakistani,Sharjah,Electronics,Card,715.52
+T1067,2025-08-24 09:53:34.197874,39,Male,Filipino,Al Ain,Beauty,Card,985.98
+T1068,2025-09-28 09:53:34.197876,30,Male,Indian,Al Ain,Clothing,Cash,159.65
+T1069,2025-09-16 09:53:34.197877,61,Female,Bangladeshi,Abu Dhabi,Groceries,Wallet,519.9
+T1070,2025-08-10 09:53:34.197879,40,Male,Emirati,Dubai,Beauty,Wallet,490.05
+T1071,2025-08-24 09:53:34.197881,53,Female,Pakistani,Sharjah,Beauty,Card,432.14
+T1072,2025-09-15 09:53:34.197882,29,Male,Egyptian,Dubai,Electronics,Cash,784.8
+T1073,2025-08-15 09:53:34.197884,18,Male,Indian,Sharjah,Electronics,Cash,647.84
+T1074,2025-08-10 09:53:34.197885,24,Female,Egyptian,Dubai,Groceries,Card,570.82
+T1075,2025-08-15 09:53:34.197887,43,Male,Pakistani,Dubai,Groceries,Card,41.5
+T1076,2025-08-27 09:53:34.197889,52,Male,Emirati,Sharjah,Groceries,Card,81.9
+T1077,2025-09-05 09:53:34.197891,52,Female,Syrian,Al Ain,Beauty,Cash,300.74
+T1078,2025-08-18 09:53:34.197894,49,Male,Egyptian,Abu Dhabi,Clothing,Cash,863.18
+T1079,2025-09-28 09:53:34.197897,34,Male,Pakistani,Dubai,Electronics,Cash,496.25
+T1080,2025-08-03 09:53:34.197899,55,Female,Pakistani,Ajman,Clothing,Wallet,928.43
+T1081,2025-08-06 09:53:34.197903,44,Male,Emirati,Al Ain,Health,Cash,60.26
+T1082,2025-09-07 09:53:34.197905,57,Female,Indian,Dubai,Home,Card,719.05
+T1083,2025-08-18 09:53:34.197908,36,Male,Indian,Abu Dhabi,Health,Cash,190.34
+T1084,2025-09-10 09:53:34.197911,28,Female,Indian,Abu Dhabi,Home,Wallet,640.61
+T1085,2025-08-26 09:53:34.197913,55,Male,Bangladeshi,Dubai,Electronics,Card,741.53
+T1086,2025-08-25 09:53:34.197915,48,Female,Pakistani,Dubai,Beauty,Wallet,49.16
+T1087,2025-08-24 09:53:34.197918,47,Female,Emirati,Ajman,Beauty,Card,11.8
+T1088,2025-08-15 09:53:34.197920,32,Male,Indian,Al Ain,Beauty,Cash,152.06
+T1089,2025-08-14 09:53:34.197923,26,Female,Bangladeshi,Dubai,Home,Card,802.43
+T1090,2025-08-21 09:53:34.197926,22,Male,Egyptian,Abu Dhabi,Clothing,Card,163.49
+T1091,2025-09-23 09:53:34.197929,49,Male,Egyptian,Al Ain,Electronics,Cash,730.08
+T1092,2025-09-23 09:53:34.197941,23,Male,Egyptian,Ajman,Clothing,Cash,610.19
+T1093,2025-08-04 09:53:34.197943,49,Female,Syrian,Ajman,Electronics,Cash,58.38
+T1094,2025-09-20 09:53:34.197945,29,Female,Egyptian,Al Ain,Health,Cash,319.03
+T1095,2025-08-10 09:53:34.197946,57,Female,Indian,Sharjah,Beauty,Card,105.94
+T1096,2025-09-24 09:53:34.197948,50,Female,Syrian,Sharjah,Electronics,Cash,361.63
+T1097,2025-08-02 09:53:34.197949,50,Female,Pakistani,Dubai,Home,Card,648.11
+T1098,2025-08-19 09:53:34.197951,59,Male,Egyptian,Ajman,Clothing,Cash,893.89
+T1099,2025-09-11 09:53:34.197952,46,Female,Filipino,Dubai,Clothing,Card,258.85
